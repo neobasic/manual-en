@@ -1,0 +1,9 @@
+[book]
+title = "NeoBASIC Language Reference Manual"
+description = "The NeoBASIC Book"
+language = "en"
+src = "src"
+authors = [
+  "Raul Bras",
+  "Contributions from the NeoBASIC Community"
+]
