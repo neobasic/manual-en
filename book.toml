@@ -1,6 +1,6 @@
 [book]
-title = "NeoBASIC Language Reference Manual"
-description = "The NeoBASIC Book"
+title = "🔰 NeoBASIC 4GL Reference Manual"
+description = "The NeoBASIC Programming Language"
 language = "en"
 src = "src"
 authors = [
