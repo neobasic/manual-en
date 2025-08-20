@@ -7,3 +7,6 @@ authors = [
   "Raul Bras",
   "Contributions from the NeoBASIC Community"
 ]
+
+[output.html]
+theme = "theme"
