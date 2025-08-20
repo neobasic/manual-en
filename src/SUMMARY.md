@@ -1,4 +1,3 @@
-
 # The NeoBASIC Programming Language
 
 [The NeoBASIC Programming Language](README.md)
@@ -27,7 +26,7 @@
 	- [Constants and Magic Values](imperative-programming/neobasic-programs/constants-and-magic-values.md)
 	- [Variables and Mutability](imperative-programming/neobasic-programs/variables-and-mutability.md)
 	- [Type Conversions](imperative-programming/neobasic-programs/type-conversions.md)
-	- [Literals and Symbols](imperative-programming/neobasic-programs/literals-and-symbols.md)
+	- [Literal Data](imperative-programming/neobasic-programs/literal-data.md)
 	- [Atom Literals](imperative-programming/neobasic-programs/atom-literals.md)
 	- [ASCII & Unicode Strings](imperative-programming/neobasic-programs/ascii-&-unicode-strings.md)
 	- [String Formatting](imperative-programming/neobasic-programs/string-formatting.md)
